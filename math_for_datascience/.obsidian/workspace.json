@@ -11,12 +11,8 @@
             "id": "319f266ebfbab0b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "matrix addition in R.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "matrix addition in R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "matrix addition in R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "matrix addition in R.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,16 +140,26 @@
   },
   "active": "319f266ebfbab0b6",
   "lastOpenFiles": [
+    "linear algebra/inverse Matrix.md",
+    "linear algebra/matrix definition.md",
+    "linear algebra/Vektoren addieren.md",
+    "linear algebra/Pasted image 20231221233526.png",
+    "linear algebra/Pasted image 20231221233001.png",
+    "linear algebra/Pasted image 20231221232731.png",
+    "linear algebra/Pasted image 20231221232659.png",
+    "linear algebra/Pasted image 20231221232043.png",
+    "linear algebra/Pasted image 20231221231357.png",
+    "linear algebra/Was ist ein Vektor?.md",
+    "linear algebra/Pasted image 20231221230854.png",
+    "linear algebra/Pasted image 20231221230329.png",
+    "linear algebra/Pasted image 20231221230151.png",
+    "linear algebra/Was ist lineares Algebra.md",
+    "linear algebra/matrix addition in R.md",
     "linear algebra/Matrix Addition.md",
-    "matrix addition in R.md",
     "linear algebra/matrix operations.md",
     "linear algebra/Multiplikation von Matrizen.md",
     "linear algebra/Multiplikationen von Matrizen.md",
     "linear algebra/Pasted image 20231221212503.png",
-    "linear algebra/Pasted image 20231221212203.png",
-    "linear algebra/Pasted image 20231221212008.png",
-    "linear algebra/Pasted image 20231221211751.png",
-    "linear algebra/matrix definition.md",
     "linear algebra"
   ]
 }
