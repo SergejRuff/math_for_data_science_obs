@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "a313c86fa49b8a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b13727d4595a1437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319f266ebfbab0b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9e1adf9dcbdf8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dba190a5bee3d4be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65321f856b6081cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6d6e2aafcd9824d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b9812491794b2ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a655da907437cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9344a3bb435917a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234d7a27c4f1a33f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ed8381cd088d3c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec42593789b5e722",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fecb99c5578d15a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "319f266ebfbab0b6",
+  "lastOpenFiles": [
+    "linear algebra/matrix operations.md",
+    "linear algebra/Matrix Addition.md",
+    "linear algebra/matrix definition.md",
+    "linear algebra"
+  ]
+}
