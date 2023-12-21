@@ -9,6 +9,9 @@ Bei der Matrizenaddition weisen alle beteiligten Matrizen die gleiche Spalten- u
 > Auch das Ergebnis (die Output-Matrix) hat dieselbe Form wie die zwei ürsprünglichen Matrizen
 Errormeldung in R: "non-conformable arrays", wenn man versucht Matrizen mit ungleichen Dimensionen zu addieren.
 
+Für ein Codebeispiel in R: [[matrix addition in R]]
+
+
 ![[Pasted image 20231221212203.png]]
 Addition erfolgt, indem man Elementenweise Addition der entsprechenden Elemente der beiden ursprünglichen Matrizen. Siehe Abbildung.
 Das erste Element der ersten Spalte von Matrix A(A1,1) wird mit dem ersten Element der ersten Spalte von matrix B (b1,1) addiert. A2,2 wird mit B2,2 addiert, A3,3 mit B3,3 und so weiter.
