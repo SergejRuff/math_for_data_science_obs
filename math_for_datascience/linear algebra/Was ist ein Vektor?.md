@@ -13,6 +13,12 @@ Vektoren sind grundlegende Bausteine der linearen Algebra, zu der Matrizen und l
 > Das Fundament für Lineares Algebra
 > Matrizen sind im Grunde genommen eine Sammlung von Vektoren
 
+Vektoren sind eine Liste an Werten/ Zahlen, die eine definierte Ordnung haben
+> Ordnung der zahlen im Vektor wichtig.
+> [0,1,2] ist nicht dasselbe wie [0,2,1]!
+
+Vektoren repräsentieren eine Verschiebung vom Ursprung (0,0). Es hat also eine Richtung und einen Betrag (Vektorlänge), die angibt, wie man vom Urpsrung zu einem anderen Punkt im Raum gelangt.
+> Vektoren können als Verschiebungen vom Urpsrung (0|0) verstanden werden mit einer bestimmten Richtung und Länge zu einem anderen Datenpunkt.
 
 Frage: Wie verstehen Data Scientists Vektoren?
 In computer science, it is an array of numbers storing
@@ -23,6 +29,15 @@ as data science professionals.
 
 	Wichtig: Jeder Datenpunkt kann auch als ein Vektor dargestellt werden. In der Abbildung haben wir zum Beispiel Datenpunkte in einem Scatterplot. Man kann aber jeden Punkt aber auch als Vektor darstellen, dessen Start der Ursprung (0,0) ist und bei der Koordinate (X,Y) endet.In der Abbildung sehen wir, dass der rote Pfeil (der Vektor) bei 0 anfängt und zum Datenpunkt führt.
 > Alle Daten in DS lassen sich als Vektoren abbilden!
+
+Eine Matrix kann als eine Ansammlung an Vektoren verstanden werden.
+> Columnvectors: Eine Spalte in einer Matrix kann als Vektor verstanden werden, wobei die Variablen dieselben Einheiten haben und dieselben Aussagen machen
+> Reihenvektoren: Observationen werden in Vektoren aufgeteilt. Die resultierenden Werte repräsentieren verschiedene Ausprägungen und haben nicht dieselben Einheiten.
+
+![[Pasted image 20231222215131.png]]
+> Man kann also Vektoroperationen auf Matrizen anwenden und eine Matrix als eine Ansammlung an Vektoren verstehen, wenn man Matrizen in Vektoren aufteilt. Siehe Abbildung.
+> Siehe auch [[matrix definition]]
+
 
 ACHTUNG:
 However, it is important we never forget the visual
