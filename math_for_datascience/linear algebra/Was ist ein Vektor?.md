@@ -18,6 +18,12 @@ Frage: Wie verstehen Data Scientists Vektoren?
 In computer science, it is an array of numbers storing
 data. The computer science context is the one we will become the most familiar with
 as data science professionals.
+
+![[Pasted image 20231222204630.png]]
+
+	Wichtig: Jeder Datenpunkt kann auch als ein Vektor dargestellt werden. In der Abbildung haben wir zum Beispiel Datenpunkte in einem Scatterplot. Man kann aber jeden Punkt aber auch als Vektor darstellen, dessen Start der Ursprung (0,0) ist und bei der Koordinate (X,Y) endet.In der Abbildung sehen wir, dass der rote Pfeil (der Vektor) bei 0 anfängt und zum Datenpunkt führt.
+> Alle Daten in DS lassen sich als Vektoren abbilden!
+
 ACHTUNG:
 However, it is important we never forget the visual
 aspect so we do not think of vectors as esoteric grids of numbers. Without a visual

@@ -11,8 +11,12 @@
             "id": "319f266ebfbab0b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "linear algebra/Was ist ein Vektor?.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linear algebra/Was ist ein Vektor?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linear algebra/Was ist ein Vektor?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linear algebra/Was ist ein Vektor?.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "319f266ebfbab0b6",
   "lastOpenFiles": [
+    "Pasted image 20231222204630.png",
     "linear algebra/inverse Matrix.md",
     "linear algebra/matrix definition.md",
     "linear algebra/Vektoren addieren.md",
