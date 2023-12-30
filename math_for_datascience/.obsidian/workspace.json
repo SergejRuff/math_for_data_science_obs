@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "319f266ebfbab0b6",
+            "id": "e2121d915d914770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear algebra/Was ist ein Vektor?.md",
+                "file": "Polynomial erkennen..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linear algebra/Was ist ein Vektor?.md",
+                "file": "Polynomial erkennen..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linear algebra/Was ist ein Vektor?.md",
+                "file": "Polynomial erkennen..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linear algebra/Was ist ein Vektor?.md"
+                "file": "Polynomial erkennen..md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65321f856b6081cb",
+  "active": "e2121d915d914770",
   "lastOpenFiles": [
+    "Pasted image 20231230184605.png",
+    "linear algebra/Was ist ein Vektor?.md",
+    "Polynomial erkennen..md",
     "linear algebra/Pasted image 20231222215131.png",
     "linear algebra/Pasted image 20231222215046.png",
-    "linear algebra/Was ist ein Vektor?.md",
     "linear algebra/Pasted image 20231222204630.png",
     "linear algebra/inverse Matrix.md",
     "linear algebra/matrix definition.md",
@@ -162,7 +164,6 @@
     "linear algebra/Pasted image 20231221232043.png",
     "linear algebra/Pasted image 20231221231357.png",
     "linear algebra/Pasted image 20231221230854.png",
-    "linear algebra/Pasted image 20231221230329.png",
     "linear algebra/Was ist lineares Algebra.md",
     "linear algebra/matrix addition in R.md",
     "linear algebra/Matrix Addition.md",
